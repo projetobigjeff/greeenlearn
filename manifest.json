@@ -1,0 +1,17 @@
+
+{
+  "name": "GreenLearn",
+  "short_name": "GreenLearn",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4ade80",
+  "theme_color": "#4ade80",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
